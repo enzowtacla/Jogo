@@ -1,0 +1,7 @@
+﻿  GerenciadorGrafico.cpp
+C:\Users\enzow\OneDrive\Documentos\Jogo\Projeto\Projeto\GerenciadorGrafico.cpp(10,44): warning C4244: 'argumento': conversão de 'float' para 'unsigned int', possível perda de dados
+C:\Users\enzow\OneDrive\Documentos\Jogo\Projeto\Projeto\GerenciadorGrafico.cpp(10,36): warning C4244: 'argumento': conversão de 'float' para 'unsigned int', possível perda de dados
+  main.cpp
+  Principal.cpp
+  Gerando Código...
+  Projeto.vcxproj -> C:\Users\enzow\OneDrive\Documentos\Jogo\Projeto\x64\Debug\Projeto.exe
