@@ -1,0 +1,8 @@
+﻿  GerenciadorEventos.cpp
+  Inimigo.cpp
+C:\Users\enzow\OneDrive\Documentos\Jogo\Projeto\Projeto\Inimigo.cpp(14,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  main.cpp
+  Personagem.cpp
+  Principal.cpp
+  Gerando Código...
+  Projeto.vcxproj -> C:\Users\enzow\OneDrive\Documentos\Jogo\Projeto\x64\Debug\Projeto.exe
